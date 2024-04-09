@@ -27,7 +27,7 @@ setup(
         "tiktoken",
         "urllib3==1.26.14",
         "xxhash==2.0.2",
-        "python-magic==0.4.22",
+        "python-magic==0.4.27",
         "dicttoxml"
     ],
     classifiers=[
