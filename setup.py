@@ -25,7 +25,7 @@ setup(
         "pymongo==3.11.4",
         "redis==3.5.3",
         "tiktoken",
-        "urllib3==1.26.6",
+        "urllib3==1.26.14",
         "xxhash==2.0.2",
         "python-magic==0.4.22",
         "dicttoxml"
