@@ -23,7 +23,7 @@ setup(
         "numpy==1.24.4",
         "openai",
         "pymongo==3.11.4",
-        "redis==3.5.3",
+        "redis==4.6.0",
         "tiktoken",
         "urllib3>=1.26.14",
         "xxhash==2.0.2",
